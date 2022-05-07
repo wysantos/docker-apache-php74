@@ -1,2 +1,3 @@
-/data/*
-/logs/*
+data/mysql
+logs/apache
+logs/mysql

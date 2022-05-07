@@ -1,0 +1,8 @@
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:06 +0000] "GET / HTTP/1.1" 200 894 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:06 +0000] "GET /assets/css/bulma.min.css HTTP/1.1" 200 22080 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:06 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:13 +0000] "GET /phpinfo.php HTTP/1.1" 200 26412 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:32 +0000] "GET / HTTP/1.1" 200 894 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:34 +0000] "GET /test_db.php HTTP/1.1" 200 371 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.19.0.1 - - [07/May/2022:03:18:39 +0000] "GET /test_db_pdo.php HTTP/1.1" 200 370 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
+localhost:80 172.20.0.1 - - [07/May/2022:03:19:55 +0000] "GET / HTTP/1.1" 200 894 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"
